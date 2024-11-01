@@ -1,1 +1,1 @@
-# Bitcoin-Price-Converter
+: Developed a Python script to fetch the current Bitcoin price from the CoinDesk API, allowing users to convert a specified amount of Bitcoin into its USD equivalent. Implemented error handling for command-line input and network requests to ensure robust performance.
