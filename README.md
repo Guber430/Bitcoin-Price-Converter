@@ -38,19 +38,8 @@ This Python script is designed to:
 
 ---
 
-## Setup Instructions
-
-### Prerequisites:
-- Python 3.x installed on your machine.
-- **Requests** library (to make HTTP requests to the CoinDesk API).
-
-### Install Dependencies:
-Install the required Python dependencies using pip:
+## Clone Repository:
 
 ```bash
-pip install requests
-
-## How To Use:
-
-git clone https://github.com/yourusername/bitcoin-price-converter.git
-cd bitcoin-price-converter
+git clone https://github.com/Guber430/Bitcoin-Price-Converter.git
+cd Bitcoin-Price-Converter
