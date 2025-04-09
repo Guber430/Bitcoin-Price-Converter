@@ -38,11 +38,6 @@ This Python script is designed to:
 
 ---
 
-## How To Use:
-
-git clone https://github.com/yourusername/bitcoin-price-converter.git
-cd bitcoin-price-converter
-
 ## Setup Instructions
 
 ### Prerequisites:
@@ -54,3 +49,8 @@ Install the required Python dependencies using pip:
 
 ```bash
 pip install requests
+
+## How To Use:
+
+git clone https://github.com/yourusername/bitcoin-price-converter.git
+cd bitcoin-price-converter
