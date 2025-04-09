@@ -6,6 +6,16 @@ With built-in error handling for command-line input and network requests, this t
 
 ---
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Clone Repository](#clone-repository)
+- [License](#license)
+
+---
+
 ## Project Overview
 
 This Python script is designed to:
