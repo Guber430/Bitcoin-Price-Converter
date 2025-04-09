@@ -12,7 +12,6 @@ With built-in error handling for command-line input and network requests, this t
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Clone Repository](#clone-repository)
-- [License](#license)
 
 ---
 
